@@ -6,3 +6,7 @@ git is a tool for learning the front end developpment and you should learn it af
 ## subheader
 
 life is good.
+
+## local developpment
+
+we need to learn git and github.
